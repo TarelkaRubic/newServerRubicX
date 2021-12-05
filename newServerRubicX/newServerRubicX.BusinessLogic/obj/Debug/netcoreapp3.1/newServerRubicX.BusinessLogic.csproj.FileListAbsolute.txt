@@ -1,0 +1,5 @@
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.deps.json
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.AssemblyInfo.cs
