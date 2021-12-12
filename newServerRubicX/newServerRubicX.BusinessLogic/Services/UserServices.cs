@@ -38,7 +38,6 @@ namespace newServerRubicX.BusinessLogic.Services
         {
             throw new NotImplementedException();
         }
-
         public Task<UserInformationBlo> AuthWithPhone(string numberPrefix, string number, string password)
         {
             throw new NotImplementedException();
@@ -49,9 +48,17 @@ namespace newServerRubicX.BusinessLogic.Services
             throw new NotImplementedException();
         }
 
-        public Task<UserInformationBlo> Get(int userId)
+        public async Task<UserInformationBlo> Get(int userId)
         {
-            throw new NotImplementedException();
+          UserRto user = await _context.Users.FirstOrDefaultAsync(x => x.Id == userId);
+            if(user == null)
+            {
+                throw new NotFoundException("Пользователь не найден");
+                
+            }
+            UserInformationBlo userInfoBlo = await ConvertToUserInformation(user);
+            return userInfoBlo;
+
         }
 
         public Task<UserInformationBlo> RegisterWithPhone(string numberPrefix, string number, string password)
