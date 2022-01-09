@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\bin\Debug\netcoreapp3.1\Share.deps.json
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\bin\Debug\netcoreapp3.1\Share.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\bin\Debug\netcoreapp3.1\Share.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\obj\Debug\netcoreapp3.1\Share.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\obj\Debug\netcoreapp3.1\Share.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\obj\Debug\netcoreapp3.1\Share.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\obj\Debug\netcoreapp3.1\Share.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\obj\Debug\netcoreapp3.1\Share.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\Share\obj\Debug\netcoreapp3.1\Share.pdb

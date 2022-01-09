@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\bin\Debug\netcoreapp3.1\newServerRubicX.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\bin\Debug\netcoreapp3.1\newServerRubicX.Core.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\bin\Debug\netcoreapp3.1\newServerRubicX.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\obj\Debug\netcoreapp3.1\newServerRubicX.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\obj\Debug\netcoreapp3.1\newServerRubicX.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\obj\Debug\netcoreapp3.1\newServerRubicX.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\obj\Debug\netcoreapp3.1\newServerRubicX.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\obj\Debug\netcoreapp3.1\newServerRubicX.Core.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.Core\obj\Debug\netcoreapp3.1\newServerRubicX.Core.pdb

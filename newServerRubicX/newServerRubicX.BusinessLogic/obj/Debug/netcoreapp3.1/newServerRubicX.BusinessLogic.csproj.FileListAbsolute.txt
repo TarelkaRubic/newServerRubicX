@@ -3,3 +3,14 @@ C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRu
 C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\Share.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\bin\Debug\netcoreapp3.1\Share.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.csproj.CopyComplete
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.pdb

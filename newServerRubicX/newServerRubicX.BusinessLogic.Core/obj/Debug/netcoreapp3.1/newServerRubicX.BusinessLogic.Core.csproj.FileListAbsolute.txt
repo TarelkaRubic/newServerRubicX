@@ -1,0 +1,9 @@
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.deps.json
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\bin\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.BusinessLogic.Core\obj\Debug\netcoreapp3.1\newServerRubicX.BusinessLogic.Core.pdb

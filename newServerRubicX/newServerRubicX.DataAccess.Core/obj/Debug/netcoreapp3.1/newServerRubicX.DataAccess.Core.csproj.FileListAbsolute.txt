@@ -3,3 +3,7 @@ C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRu
 C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.DataAccess.Core\obj\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.DataAccess.Core\obj\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.DataAccess.Core\obj\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.DataAccess.Core\bin\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.pdb
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.DataAccess.Core\obj\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.DataAccess.Core\obj\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.dll
+C:\Users\StudentDev\Documents\GitHub\newServerRubicX\newServerRubicX\newServerRubicX.DataAccess.Core\obj\Debug\netcoreapp3.1\newServerRubicX.DataAccess.Core.pdb
